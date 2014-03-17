@@ -2,3 +2,4 @@ ls -lh
 cd ~
 ls -l
 cd ~
+cd ~
