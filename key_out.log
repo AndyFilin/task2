@@ -1,0 +1,6 @@
+spawn scp /Users/andrejfilin/.ssh/id_rsa.pub andreyfilin@192.168.0.192:
+The authenticity of host '192.168.0.192 (192.168.0.192)' can't be established.
+RSA key fingerprint is df:99:67:2f:ee:2c:ba:3b:40:2f:62:8f:dd:ec:c7:88.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '192.168.0.192' (RSA) to the list of known hosts.
+id_rsa.pub                                      0%    0     0.0KB/s   --:-- ETAid_rsa.pub                                    100%  406     0.4KB/s   00:00    
